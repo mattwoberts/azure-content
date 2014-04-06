@@ -147,7 +147,7 @@ In this section, you will create a **server.js** file containing the 'hello worl
 
 While the steps in this article use the Azure Portal to create a web site, you can also use the [Azure Command-Line Tools for Mac and Linux] to perform the same operations.
 
-Node.js provides a rich ecosystem of modules that can be used by your applications. To learn how Azure Web Sites work with modules, see [Using Node.js Modules with Azure Applications](http://www.windowsazure.com/en-us/develop/nodejs/common-tasks/working-with-node-modules/).
+Node.js provides a rich ecosystem of modules that can be used by your applications. To learn how Azure Web Sites work with modules, see [Using Node.js Modules with Azure Applications]( http://azure.microsoft.com/en-us/documentation/articles/nodejs-use-node-modules-azure-apps/).
 
 To learn more about the versions of Node.js that are provided with Azure and how to specify the version to be used with your application, see [Specifying a Node.js version in an Azure application](http://www.windowsazure.com/en-us/develop/nodejs/common-tasks/specifying-a-node-version/).
 
